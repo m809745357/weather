@@ -4,7 +4,10 @@
 
 [![Build Status](https://travis-ci.org/m809745357/weather.svg?branch=master)](https://travis-ci.org/m809745357/weather)
 ![StyleCI build status](https://github.styleci.io/repos/145786635/shield) 
-
+[![Latest Stable Version](https://poser.pugx.org/lian/weather/v/stable)](https://packagist.org/packages/lian/weather)
+[![Total Downloads](https://poser.pugx.org/lian/weather/downloads)](https://packagist.org/packages/lian/weather)
+[![Latest Unstable Version](https://poser.pugx.org/lian/weather/v/unstable)](https://packagist.org/packages/lian/weather)
+[![License](https://poser.pugx.org/lian/weather/license)](https://packagist.org/packages/lian/weather)
 ## Installing
 
 ```shell
