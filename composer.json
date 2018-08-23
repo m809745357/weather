@@ -1,0 +1,28 @@
+{
+    "name": "lian/weather",
+    "description": "A Weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shenyifei",
+            "email": "m809745357@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lian\\Weather\\": "./src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "~6.0",
+        "mockery/mockery": "^1.1"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lian\\Weather\\ServiceProvider"
+            ]
+        }
+    }
+}
